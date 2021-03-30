@@ -4,6 +4,7 @@
 
 ## User settings
 CustomCamera/xcuserdata/
+CustomCamera/*xcuserstate
 
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 CustomCamera/*.xcscmblueprint
